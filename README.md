@@ -1,2 +1,2 @@
 # intro-github
-primeiro repositorio
+primeiro repositorio do workshop
